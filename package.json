@@ -1,4 +1,7 @@
 {
     "name":"com.blue.test",
-    "version":"1.0.0"
+    "version":"1.0.0",
+  "dependencies": {
+    "com.blueutils.codegen": "https://github.com/MrWhale132/BlueUtils-CodeGen.git"
+ }
 }
