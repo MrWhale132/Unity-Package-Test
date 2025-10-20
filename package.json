@@ -1,7 +1,4 @@
 {
     "name":"com.blue.test",
-    "version":"1.0.0",
-    "dependencies":{
-        "newtonsoft.json": "3.2.1"
-    }
+    "version":"1.0.0"
 }
